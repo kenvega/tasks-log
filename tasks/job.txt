@@ -1,5 +1,3 @@
 nov 2025 - week 45
+- [X] create this script and repo to track tasks
 - [ ] update resume with last job
-
-
-
