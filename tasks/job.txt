@@ -1,7 +1,5 @@
-new title test
-- [X] test
-- [X] another test
-- [X] other other test
-- [X] more test
+nov 2025 - week 45
+- [ ] update resume with last job
+
 
 
