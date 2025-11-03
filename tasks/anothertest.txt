@@ -1,2 +1,2 @@
-some title
-- [ ] test
+another title
+- [X] test
