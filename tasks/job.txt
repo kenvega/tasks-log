@@ -1,5 +1,5 @@
 nov 2025 - week 45
 - [X] create this script and repo to track tasks
 - [X] get insights to put in resume from last job
-- [ ] set up resume in overleaf
+- [X] start to set up resume in overleaf
 - [ ] 
