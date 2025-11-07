@@ -3,3 +3,4 @@ nov 2025
 - [X] get insights to put in resume from last job
 - [X] start to set up resume in overleaf
 - [X] complete updating the resume in overleaf
+- [X] start the evaluated project from bootcamp
