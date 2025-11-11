@@ -1,0 +1,2 @@
+nov 2025
+- [X] create repo workouts_data and automate related scripts
