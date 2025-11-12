@@ -5,3 +5,4 @@ nov 2025
 - [X] complete updating the resume in overleaf
 - [X] start the evaluated project from bootcamp
 - [X] continue working on the evaluated project
+- [X] keep going on the evaluated project
