@@ -6,3 +6,4 @@ nov 2025
 - [X] start the evaluated project from bootcamp
 - [X] continue working on the evaluated project
 - [X] keep going on the evaluated project
+- [X] setup accounts for meta developers project
