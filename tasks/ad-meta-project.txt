@@ -1,2 +1,3 @@
 nov 2025
 -[X] understand main concepts from marketing api: ad set, ad campaign, etc
+-[X] reach the endpoint with marketing api explorer
