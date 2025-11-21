@@ -1,0 +1,4 @@
+150 leet code problems to solve
+https://m.youtube.com/watch?v=T0u5nwSA0w0
+
+-[X] do a heavy 5kyu problem
