@@ -1,3 +1,4 @@
 nov 2025
 -[X] catch up on clases on codeable
 -[X] keep catching up on clases on codeable
+-[X] learn about index signature on typescript
