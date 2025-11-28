@@ -3,3 +3,4 @@ nov 2025
 -[X] keep catching up on clases on codeable
 -[X] learn about index signature on typescript
 -[X] learn about express-session
+-[X] learn about connect-pg-simple
