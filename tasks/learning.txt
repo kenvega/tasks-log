@@ -4,3 +4,4 @@ nov 2025
 -[X] learn about index signature on typescript
 -[X] learn about express-session
 -[X] learn about connect-pg-simple
+-[X] learn about CONSTRAINT in pg scripts
