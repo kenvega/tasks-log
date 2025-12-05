@@ -6,3 +6,4 @@ nov 2025
 -[X] learn about connect-pg-simple
 -[X] learn about CONSTRAINT in pg scripts
 -[X] keep working on codeable project advanced
+-[X] finish the codeable project advanced
