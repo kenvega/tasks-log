@@ -1,2 +1,3 @@
 nov 2025
 - [X] create repo workouts_data and automate related scripts
+- [X] setup repos and goals for epic react
