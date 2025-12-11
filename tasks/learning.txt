@@ -8,3 +8,4 @@ nov 2025
 -[X] keep working on codeable project advanced
 -[X] finish the codeable project advanced
 -[X] signup for codeable pro
+-[X] learn about useReducer
