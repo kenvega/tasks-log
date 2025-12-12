@@ -9,3 +9,4 @@ nov 2025
 -[X] finish the codeable project advanced
 -[X] signup for codeable pro
 -[X] learn about useReducer
+-[X] learn algorithm logic for getting next smaller number
