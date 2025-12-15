@@ -10,3 +10,4 @@ nov 2025
 -[X] signup for codeable pro
 -[X] learn about useReducer
 -[X] learn algorithm logic for getting next smaller number
+-[X] intro to react-query
